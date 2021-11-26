@@ -39,6 +39,7 @@
     <Content Include="about.html" />
     <Content Include="employmenthistory.html" />
     <Content Include="homepage.html" />
+    <Content Include="index.html" />
     <Content Include="projects.html" />
     <Content Include="Skillsets.html" />
     <Content Include="styles.css" />
