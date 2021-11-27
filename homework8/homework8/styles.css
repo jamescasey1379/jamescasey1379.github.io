@@ -39,7 +39,7 @@ li b {
 #box2 {
     margin: 50px;
     width: 1080px;
-    height: 400px;
+    height: 150px;
     background-color: mintcream;
     display: block;
 }
@@ -66,9 +66,19 @@ li b {
     display: block;
 }
 #box6 {
-    margin: 50px;
+    object-position:200px;
     width: 1080px;
     height: 400px;
     background-color: mintcream;
     display: block;
+}
+#pfp {
+    margin: 150px;
+    width: 450px;
+    height: 475px;
+    background-color: mintcream;
+    display: block;
+    padding: 10px;
+    padding-right:10px;
+    padding-bottom:-15px;
 }
