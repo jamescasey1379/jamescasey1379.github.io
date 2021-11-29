@@ -38,7 +38,6 @@
   <ItemGroup>
     <Content Include="about.html" />
     <Content Include="employmenthistory.html" />
-    <Content Include="homepage.html" />
     <Content Include="index.html" />
     <Content Include="profile pic with background.png" />
     <Content Include="projects.html" />
